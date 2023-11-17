@@ -19,7 +19,7 @@ The dashboard encompasses key metrics:
 10) Expansion MRR: Increase in MRR from one month to another by users paying more.
 11) Contraction MRR: Decrease in MRR from one month to the next by users paying less.
 12) Customer Lifetime (LT): Average time from first payment to user churn.
-13 Customer Lifetime Value (LTV): Average total amount paid by one user over their product usage.
+13) Customer Lifetime Value (LTV): Average total amount paid by one user over their product usage.
 
 The dashboard features seven charts with filters by date, user language, and age. Two charts display factors influencing revenue and paid users monthly.
 
