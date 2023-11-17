@@ -24,7 +24,7 @@ The dashboard features seven charts with filters by date, user language, and age
 
 Presented the project from the user's perspective, illustrating how to effectively utilize the dashboard during a visual presentation.
 
-Tableau Workbook Link[https://public.tableau.com/views/RevenueMetrics_16999005268900/RevenueMetrics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
+[Tableau Workbook Link](https://public.tableau.com/views/RevenueMetrics_16999005268900/RevenueMetrics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Skills:
 Data Analysis · SQL · PostgreSQL · DBeaver · Business Intelligence (BI) · Tableau · Data Visualization · Revenue Analysis · Financial Analysis
